@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gtts
+moviepy
+requests
+boto3
